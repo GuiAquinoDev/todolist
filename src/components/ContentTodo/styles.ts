@@ -58,7 +58,7 @@ export const ContentFormStyle = styled.div<ContentFormProps>`
   }
 
   @media (max-width: 768px) {
-    grid-template-columns: auto auto auto;
+    grid-template-columns: 3.25rem auto 2.25rem;
 
     span {
       word-break: break-all;
