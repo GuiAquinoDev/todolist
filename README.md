@@ -29,6 +29,8 @@
  
 Este é um projeto de aplicação de controle de tarefas, no estilo to-do list, desenvolvido em ReactJS.
 
+&#xa0;
+
 ## Funcionalidades
 
 - Adicionar uma nova tarefa
