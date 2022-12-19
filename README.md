@@ -37,6 +37,7 @@ Este é um projeto de aplicação de controle de tarefas, no estilo to-do list, 
 - Remover uma tarefa da listagem
 - Mostrar o progresso de conclusão das tarefas
 
+&#xa0;
 
 ## Conceitos abordados
 
