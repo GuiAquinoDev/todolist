@@ -29,7 +29,6 @@
  
 Este é um projeto de aplicação de controle de tarefas, no estilo to-do list, desenvolvido em ReactJS.
 
-&#xa0;
 
 ## Funcionalidades
 
@@ -37,6 +36,7 @@ Este é um projeto de aplicação de controle de tarefas, no estilo to-do list, 
 - Marcar e desmarcar uma tarefa como concluída
 - Remover uma tarefa da listagem
 - Mostrar o progresso de conclusão das tarefas
+
 
 ## Conceitos abordados
 
