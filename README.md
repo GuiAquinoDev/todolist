@@ -45,6 +45,7 @@ Este é um projeto de aplicação de controle de tarefas, no estilo to-do list, 
 - Imutabilidade do estado
 - Listas e chaves no ReactJS
 - Propriedades
+- Contexto
 - Componentização
 
   &#xa0;
