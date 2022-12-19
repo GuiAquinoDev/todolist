@@ -95,6 +95,12 @@ Se você deseja contribuir com o projeto, basta fazer um fork do repositório, c
 
 &#xa0;
 
+## 🔖 Layout
+
+Você pode ver o layout do projeto [neste link](https://www.figma.com/file/0n0zDN7zbzhRbaEO74Xesx/ToDo-List/duplicate). É necessário ter uma conta no [Figma](https://figma.com) para acessá-lo.
+
+&#xa0;
+
 ## ✔️ Licença
 
 Este projeto está sob licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
